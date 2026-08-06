@@ -1,4 +1,4 @@
-# 🎌 Anime Recommendation System
+# Anime Recommendation System
 
 A content-based anime recommendation engine that matches user preferences to anime titles using **TF-IDF Vectorization** and **Cosine Similarity** 
 ---
